@@ -6,7 +6,14 @@
 - Chức năng đăng ký (Gửi mail khi hoàn tất)
 - Chức năng load videos lên JSP
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xbMoY_UMJKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+[VIDEO BÀI GIẢNG](https://youtu.be/xbMoY_UMJKw)
+
+
+
+
 
 ## Các dependencies
 ```xml
