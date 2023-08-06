@@ -5,20 +5,16 @@
 - Chức năng đăng nhập (hard code)
 - Chức năng đăng ký (Gửi mail khi hoàn tất)
 - Chức năng load videos lên JSP
+- [VIDEO BÀI GIẢNG](https://youtu.be/xbMoY_UMJKw)
 
 ## Giai đoạn 2
-- CRUD dữ liệu DB bằng JPA
-- [Tham khảo](https://github.com/Theanishtar/Tutor-J4/tree/ASM2)
+- CRUD dữ liệu DB bằng JPA [SRC CODE](https://github.com/Theanishtar/Tutor-J4/tree/ASM2)
 
 
 ## Ôn thi
 - [MAPPING VỚI DB](https://github.com/dangtranhuu/Java4-FinalTest)
+- [Video bài giảng](https://www.youtube.com/watch?v=CUtbXtRVFR8&t=811s)
 - ...
-
-
-[VIDEO BÀI GIẢNG](https://youtu.be/xbMoY_UMJKw)
-
-
 
 
 
