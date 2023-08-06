@@ -6,7 +6,14 @@
 - Chức năng đăng ký (Gửi mail khi hoàn tất)
 - Chức năng load videos lên JSP
 
+## Giai đoạn 2
+- CRUD dữ liệu DB bằng JPA
+- [Tham khảo](https://github.com/Theanishtar/Tutor-J4/tree/ASM2)
 
+
+## Ôn thi
+- [MAPPING VỚI DB](https://github.com/dangtranhuu/Java4-FinalTest)
+- ...
 
 
 [VIDEO BÀI GIẢNG](https://youtu.be/xbMoY_UMJKw)
